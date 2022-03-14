@@ -65,7 +65,7 @@
             // 
             this.lblOutput.AutoSize = true;
             this.lblOutput.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lblOutput.Location = new System.Drawing.Point(12, 129);
+            this.lblOutput.Location = new System.Drawing.Point(12, 117);
             this.lblOutput.Name = "lblOutput";
             this.lblOutput.Size = new System.Drawing.Size(68, 21);
             this.lblOutput.TabIndex = 3;
